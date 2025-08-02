@@ -6,7 +6,7 @@ This is a dynamic **restaurant website** built entirely with **JavaScript**, ful
 
 ## 🚀 Live Demo
 
-[Click to view live](#) 
+[https://babashehu01.github.io/restaurant-page/](#) 
 
 ---
 
