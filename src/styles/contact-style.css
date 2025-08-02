@@ -1,0 +1,27 @@
+#content.contact  {
+    height: 70vh;
+    font-size: 2rem;
+}
+#content.contact form > * {
+    display: block;
+}
+
+#content.contact form input:text {
+    width: auto;
+    height: 8px;
+}
+
+#content.contact form textarea {
+    height: 45vh;
+    width: 45vw;
+}
+
+#content.contact form button {
+    background-color: rgb(173, 173, 172);
+    font-size: 1.7rem;
+    text-align: right;
+}
+
+#content.contact form button:hover {
+    transform: scale(1.1);
+}

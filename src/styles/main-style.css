@@ -1,0 +1,41 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 1rem;
+    max-width: 100vw;
+}
+
+header {
+    display: flex;
+    /* border: 1px solid black; */
+}
+
+header nav {
+    display: flex;
+    margin-left: auto;
+    gap: 1rem;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+header img {
+    width: 80px;
+}
+
+header nav > * {
+    height: max-content;
+    font-style: normal;
+    font-size: 25px;
+    background-color: rgb(182, 226, 141);
+    color: rgb(0, 0, 0);
+    border-style: none;
+}
+
+header nav button:hover {
+    background-color: rgb(155, 168, 96);
+    transform: scale(1.1);
+}
+
+footer {
+    text-align: center;
+}

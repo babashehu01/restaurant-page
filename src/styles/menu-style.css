@@ -1,0 +1,17 @@
+#content.menu div div {
+    width: 300px;
+    background-color: rgb(193, 196, 199);
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+
+#content.menu img {
+    width: 300px;
+    height: 300px;
+}
+
+#content.menu div {
+    display: flex;
+    flex-wrap: wrap;
+}
